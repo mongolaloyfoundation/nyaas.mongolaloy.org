@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "name": "General",
+      "img": "https://picsum.photos/seed/catgeneral/400/400"
+    }
+  ],
+  "heroSlides": [
+    {
+      "eyebrow": "Welcome",
+      "title": "Welcome to My Store",
+      "subtitle": "Quality products for everyone.",
+      "image": "https://picsum.photos/seed/hero1/600/750",
+      "cta": "Shop now",
+      "link": "/shop"
+    },
+    {
+      "eyebrow": "New arrivals",
+      "title": "Fresh picks for you",
+      "subtitle": "Discover our latest products.",
+      "image": "https://picsum.photos/seed/hero2/600/750",
+      "cta": "Explore",
+      "link": "/shop"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "title": "Welcome",
+      "body": "Thanks for visiting.",
+      "date": "Today",
+      "read": false
+    }
+  ],
+  "products": []
+}

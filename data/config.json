@@ -1,0 +1,29 @@
+{
+  "slug": "mystore",
+  "storeName": "My Store",
+  "domain": "example.com",
+  "heroEyebrow": "Welcome",
+  "heroTitle": "Welcome to My Store",
+  "heroSubtitle": "Quality products for everyone.",
+  "contact": {
+    "email": "hello@mystore.com",
+    "phone": "+1 (555) 000-0000",
+    "address": "123 Main St, City, State"
+  },
+  "privacy": "# Privacy Policy\n\nWe respect your privacy.",
+  "terms": "# Terms & Conditions\n\nBy using this store, you agree to our terms.",
+  "theme": {
+    "brand": {
+      "50": "#f5f7ff",
+      "100": "#ebeffe",
+      "200": "#d6ddfe",
+      "300": "#b3befd",
+      "400": "#8a98fc",
+      "500": "#6366f1",
+      "600": "#4f46e5",
+      "700": "#4338ca",
+      "800": "#3730a3",
+      "900": "#312e81"
+    }
+  }
+}

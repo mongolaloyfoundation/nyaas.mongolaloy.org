@@ -1,29 +1,30 @@
 {
-  "slug": "mystore",
-  "storeName": "My Store",
-  "domain": "example.com",
-  "heroEyebrow": "Welcome",
-  "heroTitle": "Welcome to My Store",
-  "heroSubtitle": "Quality products for everyone.",
+  "slug": "nyaas",
+  "storeName": "nyaas",
+  "domain": "nyaas.mongolaloy.org",
+  "heroEyebrow": "Handcrafted",
+  "heroTitle": "Timeless Handicrafts",
+  "heroSubtitle": "Jamdani, Karchupi, and handwoven treasures crafted with care.",
   "contact": {
-    "email": "hello@mystore.com",
-    "phone": "+1 (555) 000-0000",
-    "address": "123 Main St, City, State"
+    "email": "nyaas@mongolaloy.org",
+    "phone": "+8801322622214",
+    "address": "House 38, Road 3, Block c, Dhaka Uddyan, Mohammadpur, Dhaka - 1207"
   },
-  "privacy": "# Privacy Policy\n\nWe respect your privacy.",
-  "terms": "# Terms & Conditions\n\nBy using this store, you agree to our terms.",
+  "privacy": "# Privacy Policy\n\nnyaas respects your privacy.",
+  "terms": "# Terms & Conditions\n\nBy shopping at nyaas, you agree to our terms.",
   "theme": {
     "brand": {
-      "50": "#f5f7ff",
-      "100": "#ebeffe",
-      "200": "#d6ddfe",
-      "300": "#b3befd",
-      "400": "#8a98fc",
-      "500": "#6366f1",
-      "600": "#4f46e5",
-      "700": "#4338ca",
-      "800": "#3730a3",
-      "900": "#312e81"
+      "50": "#f0fdf4",
+      "100": "#dcfce7",
+      "200": "#bbf7d0",
+      "300": "#86efac",
+      "400": "#4ade80",
+      "500": "#34b449",
+      "600": "#2d9a3e",
+      "700": "#258033",
+      "800": "#1e6629",
+      "900": "#174d1f"
     }
-  }
+  },
+  "logo": "/logo.svg"
 }

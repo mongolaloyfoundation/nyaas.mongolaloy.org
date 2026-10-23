@@ -1,33 +1,53 @@
 {
   "categories": [
     {
-      "name": "General",
-      "img": "https://picsum.photos/seed/catgeneral/400/400"
+      "name": "Jamdani",
+      "img": "https://picsum.photos/seed/jamdani/400/400"
+    },
+    {
+      "name": "Karchupi",
+      "img": "https://picsum.photos/seed/karchupi/400/400"
+    },
+    {
+      "name": "Handwoven",
+      "img": "https://picsum.photos/seed/handwoven/400/400"
+    },
+    {
+      "name": "Embroidery",
+      "img": "https://picsum.photos/seed/embroidery/400/400"
     }
   ],
   "heroSlides": [
     {
-      "eyebrow": "Welcome",
-      "title": "Welcome to My Store",
-      "subtitle": "Quality products for everyone.",
-      "image": "https://picsum.photos/seed/hero1/600/750",
+      "eyebrow": "Handcrafted",
+      "title": "Timeless Handicrafts",
+      "subtitle": "Jamdani, Karchupi, and handwoven treasures crafted with care.",
+      "image": "https://picsum.photos/seed/nyaas1/600/750",
       "cta": "Shop now",
       "link": "/shop"
     },
     {
       "eyebrow": "New arrivals",
-      "title": "Fresh picks for you",
-      "subtitle": "Discover our latest products.",
-      "image": "https://picsum.photos/seed/hero2/600/750",
+      "title": "Fresh from the loom",
+      "subtitle": "Discover our latest handwoven pieces.",
+      "image": "https://picsum.photos/seed/nyaas2/600/750",
       "cta": "Explore",
+      "link": "/shop"
+    },
+    {
+      "eyebrow": "Limited edition",
+      "title": "One of a kind",
+      "subtitle": "Numbered pieces from our artisans.",
+      "image": "https://picsum.photos/seed/nyaas3/600/750",
+      "cta": "View collection",
       "link": "/shop"
     }
   ],
   "notifications": [
     {
       "id": 1,
-      "title": "Welcome",
-      "body": "Thanks for visiting.",
+      "title": "Welcome to nyaas",
+      "body": "Handcrafted treasures await you.",
       "date": "Today",
       "read": false
     }
